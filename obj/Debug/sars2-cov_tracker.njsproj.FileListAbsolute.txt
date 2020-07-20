@@ -1,0 +1,3 @@
+D:\Robert projekty\sars2-cov_tracker\sars2-cov_tracker\obj\Debug\sars2-cov_tracker.njsprojAssemblyReference.cache
+D:\Robert projekty\sars2-cov_tracker\sars2-cov_tracker\obj\Debug\sars2-cov_tracker.njsproj.CoreCompileInputs.cache
+D:\Robert projekty\sars2-cov_tracker\sars2-cov_tracker\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "sars2-cov_tracker", "sars2-cov_tracker.njsproj", "{D73138EA-36A8-4662-9FEF-E3077D0A393D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73138EA-36A8-4662-9FEF-E3077D0A393D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73138EA-36A8-4662-9FEF-E3077D0A393D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73138EA-36A8-4662-9FEF-E3077D0A393D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73138EA-36A8-4662-9FEF-E3077D0A393D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2615130D-0FD6-4D2B-8290-286CE0EF5B70}
+	EndGlobalSection
+EndGlobal
